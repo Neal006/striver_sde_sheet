@@ -1,0 +1,8 @@
+1.
+Problem : Set Matrix Zeroes         
+PatternKey ~ Two-pass simulation 
+Insight ~ 
+- Can't modify while scanning ;
+- Phase 1 observe only, Phase 2 modify only. 
+- Store which rows/cols have zeros in O(m+n) space
+
