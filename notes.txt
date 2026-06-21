@@ -6,3 +6,11 @@ Insight ~
 - Phase 1 observe only, Phase 2 modify only. 
 - Store which rows/cols have zeros in O(m+n) space
 
+2.
+Problem : Pascal's Triangle
+PatternKey ~ Simulation / build row by row
+Insight ~ 
+- Each middle element = prev[j-1] + prev[j]. 
+- First and last always 1. 
+- Build iteratively, no need for full DP table
+
