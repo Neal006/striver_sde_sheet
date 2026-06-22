@@ -21,3 +21,9 @@ Insight :
 - Find rightmost ascent (pivot); 
 - swap with smallest-larger in tail; 
 - reverse tail.
+
+4. 
+Problem : Maximum Subarray
+PatternKey : Kadane's
+
+    
