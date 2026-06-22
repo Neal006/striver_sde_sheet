@@ -26,4 +26,6 @@ Insight :
 Problem : Maximum Subarray
 PatternKey : Kadane's
 
-    
+5.
+Sort Colors
+easy-peasy
