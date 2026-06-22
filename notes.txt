@@ -14,3 +14,10 @@ Insight ~
 - First and last always 1. 
 - Build iteratively, no need for full DP table
 
+3.
+Problem : Next Permutation
+PatternKey : pivot, swap, reverse
+Insight : 
+- Find rightmost ascent (pivot); 
+- swap with smallest-larger in tail; 
+- reverse tail.
